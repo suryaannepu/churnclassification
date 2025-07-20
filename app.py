@@ -56,7 +56,7 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
-st.markdown('<div class="title">Customer Churn Prediction</div>', unsafe_allow_html=True)
+st.markdown('<div class="title">Customer Churn Prediction using ANN</div>', unsafe_allow_html=True)
 
 # Input form
 with st.form(key="input_form"):
